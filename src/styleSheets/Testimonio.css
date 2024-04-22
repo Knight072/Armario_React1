@@ -5,6 +5,15 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: aquamarine;
+    background-color: burlywood;
     box-shadow: 0 3px 13px 1px rgb(0 0 0 /9%);
+}
+
+.Imagen{
+    height: 100%;
+    width: 150%;
+}
+
+.Contenedor-texto{
+    text-align: center;
 }
